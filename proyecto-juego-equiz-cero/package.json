@@ -1,0 +1,17 @@
+{
+  "name": "proyecto-juego-equiz-cero",
+  "version": "1.0.0",
+  "description": "Juego multijugador implementando Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.5.0"
+  }
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: #294058;
+    color: #32a4c6;
+}
+
+.titulo h1{
+    color: #fffeff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.equis-cero-element{
+    border: solid 1px #32a4c6;
+    height: 150px;
+    display: table;
+    cursor: pointer;
+}
+.equis-cero-element div{
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 2em;
+    font-weight: bolder;
+}
